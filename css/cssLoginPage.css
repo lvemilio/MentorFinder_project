@@ -1,11 +1,12 @@
 
 body {
-  background-color: lightgrey;
+  background-color: white;
   color: black;
+  margin-top: 200px;
 }
 
 h1 {
-  background-color: lightgrey;
+  background-color: white;
   color: black;
   text-align: center;
 }
