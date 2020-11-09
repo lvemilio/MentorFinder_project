@@ -3,5 +3,8 @@ body {
   background-color: white;
   color: black;
   margin-top: 200px;
-  text-align: center;
+  body.serif {
+    font-family: "Times New Roman", Times, serif;
+  }
+  font-size: 15px;
 }
