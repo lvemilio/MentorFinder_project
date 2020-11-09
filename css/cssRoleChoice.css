@@ -3,10 +3,11 @@ body {
   background-color: white;
   color: black;
   margin-top: 200px;
-  body.serif {
-    font-family: "Times New Roman", Times, serif;
-  }
   font-size: 15px;
-  body.thick{
-    font-weight: bold;
+}
+body.thick {
+  font-weight: bold;
+}
+body.serif {
+  font-family: "Times New Roman", Times, serif;
 }
