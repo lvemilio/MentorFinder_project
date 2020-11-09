@@ -5,9 +5,9 @@ body {
   margin-top: 200px;
   font-size: 15px;
 }
-body.thick {
+label.thick {
   font-weight: bold;
 }
-body.serif {
+label.serif {
   font-family: "Times New Roman", Times, serif;
 }
